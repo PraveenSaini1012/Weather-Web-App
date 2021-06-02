@@ -32,6 +32,10 @@ nav{
 .navbar-brand {
     font-size: 2rem;
 }
+a:hover{
+    transform:scale(1.1,1.1);
+    color:white;
+}
 nav a{
     color:#fff;
     font-size: 1.2rem;
